@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: "Saksankieliset Kettuset kartoittamassa suomen kieltä \U0001F98A"
-    content: >
-      Balbla. This section can contain a subtitle or tagline. The recommended
-      length is one to three sentences, but can be changed as you prefer.
+    content: >-
+      This section can contain a subtitle or tagline. The recommended length is
+      one to three sentences, but can be changed as you prefer.
     actions:
       - label: Beitreten
         url: /contact
@@ -82,7 +82,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Napu Verkosto
+  title: Stackbit Exto Theme
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
