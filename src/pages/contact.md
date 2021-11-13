@@ -35,7 +35,9 @@ sections:
         default_value: Deine Nachricht
       - input_type: checkbox
         name: consent
-        label: 'Ich bin damit einverstanden, dass '
+        label: >-
+          Ich bin damit einverstanden, dass die Daten in diesem Formular zur
+          Kontaktaufnahme gespei
     submit_label: Send Message
 seo:
   title: Contact
