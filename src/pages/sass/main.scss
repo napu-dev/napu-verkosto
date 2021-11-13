@@ -1,7 +1,8 @@
 // Font. 
 
 $font: (
-  primary: ('Aino Headline',sans-serif),
+  primary: ('sans-serif'),
+  secondary: ('sans-serif'),
   monospace: (Consolas,Monaco,"Andale Mono","Ubuntu Mono",monospace)
 );
 
@@ -40,4 +41,4 @@ $palette: (
 @import "imports/sections";
 @import "imports/footer";
 @import "imports/banner";
-@import "imports/fonts";
+
