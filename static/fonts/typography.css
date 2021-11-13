@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Aino';
+    font-family: "Aino";
     src: url('/static/fonts/Aino-Bold.woff2') format('woff2'),
         url('/static/fonts/Aino-Bold.woff') format('woff');
     font-weight: bold;
