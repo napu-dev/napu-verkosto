@@ -33,6 +33,14 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "logo_img": "images/image 1.png"
