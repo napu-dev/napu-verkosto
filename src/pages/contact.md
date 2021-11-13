@@ -38,6 +38,7 @@ sections:
         label: >-
           Ich bin damit einverstanden, dass die Daten in diesem Formular zur
           Kontaktaufnahme gespeichert werden
+        is_required: true
     submit_label: Send Message
 seo:
   title: Contact
