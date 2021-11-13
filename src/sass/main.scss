@@ -1,5 +1,8 @@
 //Fontimport.
-
+@font-face {
+    font-family: 'Open Sans';
+    src: url(path/to/file) format(Example: 'truetype' or 'opentype' depending on the file extension of your font);
+}
 
 // Font.
 $font: (
