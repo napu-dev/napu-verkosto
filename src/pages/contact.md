@@ -29,7 +29,6 @@ sections:
         options:
           - Verteilerbeitritt
           - Anderes Anliegen
-          - lorem-ipsum
         default_value: Optionen
       - input_type: textarea
         name: message
