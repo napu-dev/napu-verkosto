@@ -24,7 +24,7 @@ $palette: (
   accent-yellow:     #ed9700
 );
 
-
+@import "/static/fonts/typography.css";
 @import "imports/functions";
 @import "imports/reset";
 @import "imports/general";
@@ -40,4 +40,3 @@ $palette: (
 @import "imports/sections";
 @import "imports/footer";
 @import "imports/banner";
-@import "/static/fonts/typography.css";
