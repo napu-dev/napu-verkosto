@@ -21,7 +21,7 @@ sections:
         default_value: Deine E-Mail-Adresse
         is_required: true
       - input_type: select
-        name: subject
+        name: Betreff
         label: Subject
         default_value: Please select
         options:
