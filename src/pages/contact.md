@@ -25,7 +25,7 @@ sections:
         label: Betreff
         default_value: Optionen
         options:
-          - Error on the site
+          - Verteilerbeitritt
           - Sponsorship
           - Other
       - input_type: textarea
