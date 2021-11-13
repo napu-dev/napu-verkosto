@@ -29,6 +29,7 @@ sections:
         options:
           - Verteilerbeitritt
           - Anderes Anliegen
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Nachricht
