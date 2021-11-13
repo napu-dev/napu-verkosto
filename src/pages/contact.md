@@ -7,6 +7,9 @@ sections:
     content: >
       Hei! Wollt ihr uns kontaktieren oder unserem Verteiler beitreten? Dann
       füllt dieses Kontaktformular aus :)
+
+
+      Ihr könnt uns auf Deutsch, Finnisch oder Englisch  anschreiben.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
