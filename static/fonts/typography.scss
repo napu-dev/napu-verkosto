@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Aino Headline";
+    src: url('/static/fonts/AinoHeadline.woff2') format('woff2'),
+        url('/static/fonts/AinoHeadline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Aino";
+    src: url('/static/fonts/Aino-Bold.woff2') format('woff2'),
+        url('/static/fonts/Aino-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Aino";
+    src: url('/static/fonts/Aino-Regular.woff2') format('woff2'),
+        url('/static/fonts/Aino-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
