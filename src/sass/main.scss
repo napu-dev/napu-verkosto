@@ -1,9 +1,9 @@
 //Fontimport.
-
 @font-face {
-    font-family: 'Open Sans';
-    src: url(path/to/file) format(Example: 'truetype' or 'opentype' depending on the file extension of your font);
+  font-family: 'Aino';
+  src: url(/static/fonts/Aino-Headline.otf) format('otf');
 }
+
 // Font.
 $font: (
   primary: ('Aino',sans-serif),
