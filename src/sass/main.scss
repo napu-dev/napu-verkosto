@@ -1,8 +1,6 @@
 //Fontimport.
 @font-face {
-  font-family: 'Aino';
-  src: url(/static/fonts/Aino-Headline.otf) format('otf');
-}
+@import "imports/functions";
 
 // Font.
 $font: (
