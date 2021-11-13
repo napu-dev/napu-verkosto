@@ -26,7 +26,7 @@ sections:
         default_value: Optionen
         options:
           - Verteilerbeitritt
-          - Sponsorship
+          - Anderes Anliegen
           - Other
       - input_type: textarea
         name: message
