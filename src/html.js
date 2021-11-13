@@ -1,6 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
- import "sta" 
+ import "stat" 
 
 export default function HTML(props) {
   return (
