@@ -1,5 +1,5 @@
 // Font. 
-
+@import "imports/fonts";
 $font: (
   primary: ('Aino',sans-serif),
   monospace: (Consolas,Monaco,"Andale Mono","Ubuntu Mono",monospace)
@@ -39,4 +39,3 @@ $palette: (
 @import "imports/sections";
 @import "imports/footer";
 @import "imports/banner";
-@import "imports/fonts";
