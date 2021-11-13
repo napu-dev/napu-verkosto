@@ -1,6 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
- import "./app.css" 
+ import "sta" 
 
 export default function HTML(props) {
   return (
