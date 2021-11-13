@@ -34,6 +34,3 @@ seo:
       relativeUrl: true
 template: project
 ---
-
-
-<https://mobile.twitter.com/napu_verkosto>
