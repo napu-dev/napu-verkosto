@@ -4,12 +4,12 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    title: "Saksankieliset Kettuset kartoittamassa suomen kieltä \U0001F98A"
+    content: >
+      Balbla. This section can contain a subtitle or tagline. The recommended
+      length is one to three sentences, but can be changed as you prefer.
     actions:
-      - label: Let's talk
+      - label: Beitreten
         url: /contact
         style: button
   - section_id: latest-projects
@@ -48,7 +48,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - section_id: testimonials
     type: section_testimonials
-    title: Testimonials
+    title: 'Das sagen Napulaiset:'
     subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
@@ -82,7 +82,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Stackbit Exto Theme
+  title: Napu Verkosto
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
