@@ -29,6 +29,7 @@ sections:
         options:
           - Verteilerbeitritt
           - Anderes Anliegen
+        default_value: ' '
       - input_type: textarea
         name: message
         label: Nachricht
