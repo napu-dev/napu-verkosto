@@ -31,7 +31,7 @@
             },
             {
                 "label": "Extra-Materialien",
-                "url": "/extra-materialien",
+                "url": "/extra-materialien/",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
