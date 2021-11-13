@@ -26,7 +26,6 @@ sections:
       - input_type: select
         name: Betreff
         label: Betreff
-        default_value: Optionen
         options:
           - Verteilerbeitritt
           - Anderes Anliegen
