@@ -23,7 +23,7 @@ sections:
       - input_type: select
         name: Betreff
         label: Betreff
-        default_value: Please select
+        default_value: Optionen
         options:
           - Error on the site
           - Sponsorship
