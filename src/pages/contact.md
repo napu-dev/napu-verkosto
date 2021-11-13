@@ -37,7 +37,7 @@ sections:
         name: consent
         label: >-
           Ich bin damit einverstanden, dass die Daten in diesem Formular zur
-          Kontaktaufnahme gespei
+          Kontaktaufnahme gespeichert werden
     submit_label: Send Message
 seo:
   title: Contact
