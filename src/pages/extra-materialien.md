@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Extra-Materialien
 hide_title: true
 sections: []
 seo:
