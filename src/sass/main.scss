@@ -1,6 +1,6 @@
 // Font.
 @font-face "";
-    src: url(/static/fonts/typography.css) format(
+    src: url(/static/fonts/typography.css) format('woff');
 $font: (
   primary: ('Aino',sans-serif),
   monospace: (Consolas,Monaco,"Andale Mono","Ubuntu Mono",monospace)
