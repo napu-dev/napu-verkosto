@@ -1,7 +1,26 @@
 @font-face {
-  font-family: Aino;
-  font-weight: 400;
-  font-style: normal;
-  src: url("Aino-Headline") format("otf");
-  font-display: swap;
+    font-family: 'Aino';
+    src: url('Aino-Bold.woff2') format('woff2'),
+        url('Aino-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aino';
+    src: url('Aino-Regular.woff2') format('woff2'),
+        url('Aino-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aino Headline';
+    src: url('AinoHeadline.woff2') format('woff2'),
+        url('AinoHeadline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
