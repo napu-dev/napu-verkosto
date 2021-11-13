@@ -1,6 +1,5 @@
 import React from "react"
 import PropTypes from "prop-types"
-import "/static/fonts/typography.css" 
 
 export default function HTML(props) {
   return (
