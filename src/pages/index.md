@@ -7,6 +7,7 @@ sections:
     title: Saksankieliset Kettuset kartoittamassa suomen kieltä
     content: |
       Fennistik-Netzwerk im deutschsprachigen Raum:
+
       Willkommen auf der Website von Napu!
     actions:
       - label: Beitreten
