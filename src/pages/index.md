@@ -83,7 +83,7 @@ sections:
         style: button
 seo:
   title: Napu
-  description: The preview of the Exto theme
+  description: 'Saksankieliset Kettuset kartoittamassa suomen kieltä. '
   extra:
     - name: 'og:type'
       value: website
