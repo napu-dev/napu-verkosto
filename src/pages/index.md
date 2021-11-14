@@ -82,7 +82,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Napu
+  title: 'Napu-verkosto: Saksankieliset Kettuset kartoittamassa suomen kieltä.'
   description: 'Saksankieliset Kettuset kartoittamassa suomen kieltä. '
   extra:
     - name: 'og:type'
