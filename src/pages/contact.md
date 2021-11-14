@@ -32,7 +32,7 @@ sections:
         default_value: Optionen
         is_required: true
       - input_type: textarea
-        name: message
+        name: Nachricht
         label: Nachricht
         default_value: Deine Nachricht
       - input_type: checkbox
