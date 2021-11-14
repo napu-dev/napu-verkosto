@@ -82,7 +82,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: 'Napu - Fennistik-Netzwerk im '
+  title: Napu - Fennistik-Netzwerk im deutschsprachigen Raum
   description: >-
     Saksankieliset Kettuset kartoittamassa suomen kieltä. Willkommen auf unserer
     Website!
