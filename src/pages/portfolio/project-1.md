@@ -34,4 +34,4 @@ seo:
       relativeUrl: true
 template: project
 ---
-Suomen Mestari Vokabeln
+Veranstaltungen von Napu oder Finnland
