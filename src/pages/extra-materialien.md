@@ -2,7 +2,7 @@
 title: Extra-Materialien
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: Extra-Materialien
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     layout_style: mosaic
