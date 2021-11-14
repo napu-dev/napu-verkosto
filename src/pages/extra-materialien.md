@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - title: Extra-Materialien
     section_id: lorem-ipsum
-    subtitle: 'Hier findet ihr Veranstaltungen, Musik, Vokabeln und mehr'
+    subtitle: 'Hier findet ihr Veranstaltungen, Musik, Vokabeln und mehr!'
     layout_style: mosaic
     projects_number: 4
     view_all_label: lorem-ipsum
