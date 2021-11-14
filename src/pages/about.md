@@ -1,6 +1,6 @@
 ---
 title: Über uns
-subtitle: Dies ist ein kurzer Überblick über N
+subtitle: Was ist Napu?
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
