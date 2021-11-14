@@ -83,7 +83,9 @@ sections:
         style: button
 seo:
   title: 'Napu-verkosto: Saksankieliset Kettuset kartoittamassa suomen kieltä.'
-  description: 'Saksankieliset Kettuset kartoittamassa suomen kieltä. '
+  description: >-
+    Saksankieliset Kettuset kartoittamassa suomen kieltä. Willkommen auf unserer
+    Website!
   extra:
     - name: 'og:type'
       value: website
