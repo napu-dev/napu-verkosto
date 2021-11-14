@@ -1,6 +1,6 @@
 ---
 title: Impressionen
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Hier ein paar Bilder unserer Aktivitäten
 layout_style: mosaic
 seo:
   title: Portfolio
