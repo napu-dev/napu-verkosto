@@ -19,7 +19,7 @@ sections:
         default_value: Dein Name
         is_required: true
       - input_type: email
-        name: email
+        name: E-Mail
         label: E-Mail
         default_value: Deine E-Mail-Adresse
         is_required: true
