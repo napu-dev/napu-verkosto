@@ -36,7 +36,7 @@ sections:
         label: Nachricht
         default_value: Deine Nachricht
       - input_type: checkbox
-        name: consent
+        name: Einverständnis
         label: >-
           Ich bin damit einverstanden, dass die Daten in diesem Formular zur
           Kontaktaufnahme gespeichert werden
