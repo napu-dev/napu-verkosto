@@ -31,4 +31,4 @@ seo:
       relativeUrl: true
 template: page
 ---
-Napu ist eine Plattform für aktuelle, angehende oder ehemalige Studierende der finnischen Sprache, Kultur und Literatur im deutschsprachigen Raum. Wir verstehen uns als Netzwerk, über das wir Erfahrungen und Pläne austauschen können, Einblicke in den Studiumsalltag geben und allgemein unsere interne Zusammenarbeit stärken. Neben Studierenden der deutschsprachigen Fennistiken und Finnougristiken heißen wir auch alle anderen herzlich willkommen, die mit Finnisch und Finnland im universitären Rahmen zu tun haben und an diesem Austausch teilhaben möchten.
+Napu ist eine Plattform für aktuelle, angehende oder ehemalige Studierende der finnischen Sprache, Kultur und Literatur im deutschsprachigen Raum. Wir verstehen uns als Netzwerk, über das wir Erfahrungen und Pläne austauschen können, Einblicke in den Studiumsalltag geben und allgemein unsere interne Zusammenarbeit stärken. Neben Studierenden der deutschsprachigen Fennistiken und Finnougristiken heißen wir auch alle Anderen herzlich willkommen, die mit Finnisch und Finnland im universitären Rahmen zu tun haben und an diesem Austausch teilhaben möchten.
