@@ -1,6 +1,6 @@
 ---
 title: Über uns
-subtitle: Napu - Wer oder was steckt dahinter?
+subtitle: Napu - Wer oder was ist das?
 image: images/Napu-Logo rot-weiß ohne Polarlichter.jpg
 image_alt: A man taking a picture
 seo:
