@@ -30,7 +30,7 @@ sections:
         url: 'https://app.stackbit.com/studio/616d642cbcc67600cb191c61#/about/'
         style: link
         icon: dribbble
-        new_window: true
+        new_window: false
         no_follow: false
     type: section_hero
   - section_id: latest-posts
