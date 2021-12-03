@@ -6,7 +6,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: 'Hier findet ihr Veranstaltungen, Musik, Vokabeln und mehr!'
     layout_style: mosaic
-    projects_number: 4
+    projects_number: 3
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: section_portfolio
