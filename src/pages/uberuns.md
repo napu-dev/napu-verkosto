@@ -2,7 +2,7 @@
 title: Über uns
 hide_title: false
 sections:
-  - image_alt: lorem-ipsum
+  - image_alt: 'red and white fox on blue background '
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
