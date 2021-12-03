@@ -2,7 +2,7 @@
 title: Über uns
 hide_title: false
 sections:
-  - image_alt: 'red and white fox on blue background '
+  - image_alt: red and white fox on blue background being cute
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
