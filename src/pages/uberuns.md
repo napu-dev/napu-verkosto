@@ -49,6 +49,9 @@ sections:
       - author: lorem-ipsum
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: lorem-ipsum
     type: section_testimonials
 seo:
   title: ''
