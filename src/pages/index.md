@@ -36,10 +36,10 @@ sections:
       interne Zusammenarbeit stärken.
 
 
-
-
       Napu wurde von fünf Studierenden der Universitäten Köln und Greifswald ins
-      Leben gerufen.
+      Leben gerufen. Das Herz des Austauschs sind regelmäßige Treffen mit Fennis
+      aus verschiedensten Städten auf Zoom und lokale Aktivitäten in den
+      jeweiligen Städten.
   - section_id: latest-posts
     type: section_posts
     title: Neuste Blogeinträge
