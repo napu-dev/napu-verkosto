@@ -19,16 +19,6 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - section_id: services
-    type: section_grid
-    title: Das sind wir
-    col_number: two
-    is_numbered: false
-    grid_items:
-      - image_alt: lorem-ipsum
-        content: |2
-                                                                                                      < <https://app.stackbit.com/studio/616d642cbcc67600cb191c61#/about/>>
-        actions: []
   - section_id: latest-posts
     type: section_posts
     title: Neuste Blogeinträge
