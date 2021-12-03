@@ -23,7 +23,7 @@ sections:
     type: section_grid
     title: Das sind wir
     col_number: two
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: Service Title
         content: >-
