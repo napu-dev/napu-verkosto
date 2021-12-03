@@ -22,7 +22,6 @@ sections:
   - section_id: services
     type: section_grid
     title: Das sind wir
-    subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
     grid_items:
