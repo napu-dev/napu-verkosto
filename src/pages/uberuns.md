@@ -17,7 +17,7 @@ sections:
     image: images/Napu-Logo rot-weiß ohne Polarlichter.jpg
     subtitle: Napu - Wer oder was ist das?
   - title: Gründung
-    section_id: Grün
+    section_id: Gründung
     subtitle: lorem-ipsum
     col_number: three
     testimonials:
