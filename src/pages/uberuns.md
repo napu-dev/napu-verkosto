@@ -18,7 +18,7 @@ sections:
     subtitle: Napu - Wer oder was ist das?
   - title: Gründung
     section_id: Gründung
-    subtitle: 'Das sind '
+    subtitle: Das sind wir
     col_number: three
     testimonials:
       - author: Paula
