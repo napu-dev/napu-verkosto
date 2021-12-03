@@ -26,7 +26,7 @@ sections:
 
       "Link"
     actions:
-      - label: Lese mehr
+      - label: Erfahre mehr
         url: '#/about/'
         style: link
         icon: dribbble
