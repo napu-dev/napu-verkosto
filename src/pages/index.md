@@ -20,7 +20,7 @@ sections:
     view_all_label: View All
     view_all_url: portfolio
   - title: Über uns
-    section_id: lorem-ipsum
+    section_id: Über uns
     actions:
       - label: Erfahre mehr
         url: 'https://app.stackbit.com/studio/616d642cbcc67600cb191c61#/about/'
