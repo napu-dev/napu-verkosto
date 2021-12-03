@@ -26,7 +26,7 @@ sections:
 
       "Link"
     actions:
-      - label: lorem-ipsum
+      - label: Lese mehr
         url: '#/about/'
         style: link
         icon: dribbble
