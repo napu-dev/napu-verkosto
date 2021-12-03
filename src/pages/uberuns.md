@@ -34,9 +34,6 @@ sections:
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         actions: []
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
-        actions: []
     type: section_grid
   - title: lorem-ipsum
     section_id: lorem-ipsum
