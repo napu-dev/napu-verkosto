@@ -26,9 +26,8 @@ sections:
     is_numbered: false
     grid_items:
       - image_alt: lorem-ipsum
-        content: |+
-          blabla 
-
+        content: |2
+                                                                                                      < <https://app.stackbit.com/studio/616d642cbcc67600cb191c61#/about/>>
         actions: []
   - section_id: latest-posts
     type: section_posts
