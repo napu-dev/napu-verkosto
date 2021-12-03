@@ -18,7 +18,7 @@ sections:
     subtitle: Napu - Wer oder was ist das?
   - title: Gründung
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Das sind wir
     col_number: three
     is_numbered: false
     grid_items: []
