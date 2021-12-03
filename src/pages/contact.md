@@ -10,6 +10,9 @@ sections:
 
 
       Ihr könnt uns auf Deutsch, Finnisch oder Englisch  anschreiben.
+
+
+      You can contact us in German, Finnish or English.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
