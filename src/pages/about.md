@@ -2,7 +2,7 @@
 title: Über uns
 subtitle: Napu - Wer oder was ist das?
 image: images/Napu-Logo rot-weiß ohne Polarlichter.jpg
-image_alt: A man taking a picture
+image_alt: A red and white fox on a blue backgound
 seo:
   title: About Us
   description: This is the about us page
