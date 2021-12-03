@@ -25,8 +25,7 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         content: |+
           blabla 
 
