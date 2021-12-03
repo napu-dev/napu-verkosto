@@ -43,7 +43,7 @@ sections:
     subtitle: lorem-ipsum
     col_number: three
     testimonials:
-      - author: Pau
+      - author: Paula
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
     type: section_testimonials
