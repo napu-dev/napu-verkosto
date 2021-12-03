@@ -19,7 +19,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - title: lorem-ipsum
+  - title: Über uns
     section_id: lorem-ipsum
     content: |
 
