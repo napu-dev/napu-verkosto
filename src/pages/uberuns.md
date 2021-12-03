@@ -16,6 +16,7 @@ sections:
     type: section_content
     image: images/Napu-Logo rot-weiß ohne Polarlichter.jpg
     subtitle: Napu - Wer oder was ist das?
+    title: wer oder was
 seo:
   title: ''
   description: ''
