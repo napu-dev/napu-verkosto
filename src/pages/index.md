@@ -23,7 +23,7 @@ sections:
     section_id: Über uns
     actions:
       - label: Hier erfährst du mehr über uns
-        url: 'https://app.stackbit.com/studio/616d642cbcc67600cb191c61#/about/'
+        url: /
         style: link
         icon: dribbble
         new_window: false
