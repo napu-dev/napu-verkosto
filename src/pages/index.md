@@ -40,6 +40,9 @@ sections:
       Leben gerufen. Das Herz des Austauschs sind regelmäßige Treffen mit Fennis
       aus verschiedensten Städten auf Zoom und lokale Aktivitäten in den
       jeweiligen Städten.
+
+
+      Schau dich doch gerne auf der Website um!
   - section_id: latest-posts
     type: section_posts
     title: Neuste Blogeinträge
