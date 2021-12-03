@@ -2,8 +2,7 @@
 title: Über uns
 hide_title: false
 sections:
-  - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
