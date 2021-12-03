@@ -2,7 +2,7 @@
 title: Über uns
 hide_title: false
 sections:
-  - title: lorem-ipsum
+  - title: 'Napu - '
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
