@@ -12,7 +12,7 @@ export default class SectionContent extends React.Component {
                 {(_.get(section, 'title', null) || _.get(section, 'subtitle', null)) && (
                 <div className="block-header inner-sm">
                   {_.get(section, 'title', null) && (
-                  <h2 className="block-title line-top">{_.get(section, 'title', null)}</h6>
+                  <h2 className="block-title line-top">{_.get(section, 'title', null)}</h2>
                   )}
                   {_.get(section, 'subtitle', null) && (
                   <p className="block-subtitle">{htmlToReact(_.get(section, 'subtitle', null))}</p>
