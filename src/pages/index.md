@@ -23,7 +23,7 @@ sections:
     section_id: Über uns
     actions:
       - label: Hier erfährst du mehr über uns
-        url: /uberuns
+        url: /uberuns/
         style: link
         icon: dribbble
         new_window: false
