@@ -15,7 +15,7 @@ sections:
       möchten.
     type: section_content
     image: images/Napu-Logo rot-weiß ohne Polarlichter.jpg
-    subtitle: sjsjsj
+    subtitle: Napu - Wer oder was ist das?
 seo:
   title: ''
   description: ''
