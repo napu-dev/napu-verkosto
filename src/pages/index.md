@@ -24,12 +24,7 @@ sections:
     title: Das sind wir
     col_number: two
     is_numbered: false
-    grid_items:
-      - title: Service Title
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+    grid_items: []
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
