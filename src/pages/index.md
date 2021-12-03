@@ -29,6 +29,17 @@ sections:
         new_window: false
         no_follow: false
     type: section_hero
+    content: >
+      Napu ist ein Netzwerk für aktuelle, angehende oder ehemalige Studierende
+      der finnischen Sprache, Kultur und Literatur im deutschsprachigen Raum.
+      Wir wollen Einblicke in den Studiumsalltag geben und allgemein unsere
+      interne Zusammenarbeit stärken.
+
+
+
+
+      Napu wurde von fünf Studierenden der Universitäten Köln und Greifswald ins
+      Leben gerufen.
   - section_id: latest-posts
     type: section_posts
     title: Neuste Blogeinträge
