@@ -36,6 +36,7 @@ sections:
       non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac
       dui. Integer vel convallis justo.
     type: section_content
+    image: images/Napu-Logo rot-weiß ohne Polarlichter.jpg
 seo:
   title: ''
   description: ''
