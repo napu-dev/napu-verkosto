@@ -16,25 +16,6 @@ sections:
     type: section_content
     image: images/Napu-Logo rot-weiß ohne Polarlichter.jpg
     subtitle: Napu - Wer oder was ist das?
-  - title: Gründung
-    section_id: lorem-ipsum
-    subtitle: Das sind wir
-    col_number: three
-    is_numbered: false
-    grid_items:
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
-        actions: []
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
-        actions: []
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
-        actions: []
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
-        actions: []
-    type: section_grid
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
