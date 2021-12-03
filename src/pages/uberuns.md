@@ -2,7 +2,7 @@
 title: Über uns
 hide_title: false
 sections:
-  - title: Napu - Wer oder was ist das
+  - title: Napu - Wer oder was ist das?
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
