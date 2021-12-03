@@ -30,7 +30,7 @@ sections:
         url: '#/about/'
         style: link
         icon: dribbble
-        new_window: false
+        new_window: true
         no_follow: false
     type: section_hero
   - section_id: latest-posts
