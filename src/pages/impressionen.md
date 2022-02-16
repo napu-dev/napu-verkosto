@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Impressionen
 hide_title: true
 sections: []
 seo:
