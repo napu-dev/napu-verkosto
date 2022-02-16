@@ -34,4 +34,8 @@ seo:
       relativeUrl: true
 template: project
 ---
-Veranstaltungen von Napu oder Finnland
+Hier findet ihr Veranstaltungen mit Finnlandbezug in Deutschland und Umgebung.
+
+
+
+Mehr Inhalt in Kürze...
