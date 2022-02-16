@@ -2,7 +2,7 @@
 title: Veranstaltungen
 subtitle: Kunst und Kultur
 date: '2019-05-10'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/confetti-g16a4bff45_1920.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
