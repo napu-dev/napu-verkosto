@@ -3,7 +3,7 @@ title: Impressionen
 hide_title: true
 sections:
   - title: Impressionen
-    section_id: lorem-ipsum
+    section_id: Impressionen
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
