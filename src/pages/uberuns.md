@@ -30,7 +30,7 @@ sections:
       - author: Laura-Helena (Universität Greifswald)
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
-      - author: lorem-ipsum
+      - author: Nina (Universität Greifswald)
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
       - author: lorem-ipsum
