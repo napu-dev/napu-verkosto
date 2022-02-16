@@ -5,7 +5,7 @@ date: '2019-04-08'
 thumb_image: images/index-cards-g3e4a8ed36_1920.jpg
 thumb_image_alt: Karteikarten auf Holztisch
 image: images/index-cards-g3e4a8ed36_1920-b1d94c8c.jpg
-image_alt: A yellow retro telephone on a yellow background
+image_alt: Karteikarten auf Holztisch
 seo:
   title: Project Title 3
   description: This is the project 3 description
