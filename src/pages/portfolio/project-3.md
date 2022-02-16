@@ -34,4 +34,8 @@ seo:
       relativeUrl: true
 template: project
 ---
-Vokabellisten zu Suomen Mestari
+Hier findet ihr von uns vorgefertigte Vokabellisten zu den Suomen Mestari Lehrbüchern.
+
+
+
+Mehr Inhalt in Kürze...
