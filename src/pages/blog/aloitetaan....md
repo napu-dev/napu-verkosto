@@ -4,7 +4,7 @@ subtitle: lorem-ipsum
 date: '2021-10-18'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Wo alles begann
 seo:
   title: ''
   description: ''
