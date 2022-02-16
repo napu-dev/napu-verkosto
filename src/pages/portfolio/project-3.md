@@ -4,7 +4,7 @@ subtitle: Vokabellisten zum Finnisch Lernen
 date: '2019-04-08'
 thumb_image: images/index-cards-g3e4a8ed36_1920.jpg
 thumb_image_alt: Karteikarten auf Holztisch
-image: images/3.jpg
+image: images/index-cards-g3e4a8ed36_1920-b1d94c8c.jpg
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
