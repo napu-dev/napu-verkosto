@@ -1,6 +1,6 @@
 ---
 title: Musik
-subtitle: Unsere Lieblingslieder
+subtitle: Unsere finnischen Lieblingslieder
 date: '2019-04-30'
 thumb_image: images/record-player-g99096b6e5_1920.jpg
 thumb_image_alt: Plattenspieler
