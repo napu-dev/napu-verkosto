@@ -33,7 +33,7 @@ sections:
       - author: Nina (Universität Greifswald)
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
-      - author: lorem-ipsum
+      - author: Katharina (Universität Greifswald)
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
     type: section_testimonials
