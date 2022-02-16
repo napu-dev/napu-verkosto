@@ -5,7 +5,7 @@ date: '2019-05-10'
 thumb_image: images/confetti-g16a4bff45_1920.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/confetti-g16a4bff45_1920-c7672ebe.jpg
-image_alt: 'White, black, and red shoe sole'
+image_alt: 'Konfetti '
 seo:
   title: Project Title 1
   description: This is the project 1 description
