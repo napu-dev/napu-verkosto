@@ -34,4 +34,8 @@ seo:
       relativeUrl: true
 template: project
 ---
-Spotify Playlists für finnische Musik
+Hier findet ihr Playlists mit finnischer Musik für jeden Geschmack!
+
+
+
+Mehr Inhalt in Kürze...
