@@ -24,7 +24,7 @@ sections:
       - author: Paula (Universität zu Köln)
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
-      - author: lorem-ipsum
+      - author: Chris (Universität zu Köln)
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
       - author: lorem-ipsum
