@@ -5,7 +5,7 @@ date: '2019-04-30'
 thumb_image: images/record-player-g99096b6e5_1920.jpg
 thumb_image_alt: Plattenspieler
 image: images/record-player-g99096b6e5_1920-7940e8df.jpg
-image_alt: An orange on a blue background
+image_alt: Plattenspieler
 seo:
   title: Project Title 2
   description: This is the project 2 description
