@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - title: Impressionen
     section_id: Impressionen
-    subtitle: 'Hier '
+    subtitle: Hier findet ihr ein paar Bilder von uns und unseren letzten Aktionen
     col_number: three
     is_numbered: false
     grid_items: []
