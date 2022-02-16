@@ -2,7 +2,7 @@
 title: Suomen Mestari Vokabeln
 subtitle: Vokabellisten zum Finnisch Lernen
 date: '2019-04-08'
-thumb_image: images/3_thumb.jpg
+thumb_image: images/index-cards-g3e4a8ed36_1920.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/3.jpg
 image_alt: A yellow retro telephone on a yellow background
