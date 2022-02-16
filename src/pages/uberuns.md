@@ -21,7 +21,7 @@ sections:
     subtitle: Das sind wir
     col_number: three
     testimonials:
-      - author: Paula
+      - author: Paula (Universität zu Köln)
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
       - author: lorem-ipsum
